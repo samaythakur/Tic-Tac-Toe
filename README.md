@@ -17,17 +17,17 @@ Developed a GUI-based Tic-Tac-Toe game using the Python programming language and
 6.Switch turns dynamically between Player X and Player O.
 
 7.Continuously check for:
-  Row-wise win
-  Column-wise win
-  Diagonal-wise win
+  -Row-wise win
+  -Column-wise win
+  -Diagonal-wise win
   
 8.If a player wins:
-  Display winner message
-  Reset the game automatically
+  -Display winner message
+  -Reset the game automatically
   
 9.If all cells are filled without a winner:
-  Declare the match as a draw
-  Reset the game
+  -Declare the match as a draw
+  -Reset the game
   
 10.Repeat gameplay for a new match.
 
