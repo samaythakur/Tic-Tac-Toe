@@ -5,21 +5,30 @@ Developed a GUI-based Tic-Tac-Toe game using the Python programming language and
 
 # Project Flow
 1.Start the application and initialize the game board.
+
 2.Create a 3×3 grid using Tkinter buttons.
+
 3.Assign Player X as the first player.
+
 4.Detect button click events from the user.
+
 5.Update the selected cell with the current player's symbol.
+
 6.Switch turns dynamically between Player X and Player O.
+
 7.Continuously check for:
   Row-wise win
   Column-wise win
   Diagonal-wise win
+  
 8.If a player wins:
   Display winner message
   Reset the game automatically
+  
 9.If all cells are filled without a winner:
   Declare the match as a draw
   Reset the game
+  
 10.Repeat gameplay for a new match.
 
 # Result
