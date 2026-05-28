@@ -19,7 +19,7 @@ Developed a GUI-based Tic-Tac-Toe game using the Python programming language and
 7.Continuously check for:
   -Row-wise win
   -Column-wise win
-  -Diagonal-wise win
+  -Diagonal wise win
   
 8.If a player wins:
   -Display winner message
